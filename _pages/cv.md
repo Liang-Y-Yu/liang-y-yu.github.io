@@ -11,30 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Software Engineering, Blekinge Institute of Technology, 2025 (expected)
+* M.S. in MBA, Blekinge Institute of Technology, 2018
+* M.S. in Software Engineering, Blekinge Institute of Technology, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr 2019 - Present: Developer
+  * Ericsson Mobile Financial Service
+  * Duties included: CI/CD, Kubernetes, Micro-services, Automation.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2017 - Apr 2019: System Integration and testing
+  * Qvantel
+  * Duties included: CI/CD, integration and regression testing, computing platform implementation.
+
+* Jul 2013 - Feb 2017: Software Developer
+  * Ericsson
+  * Duties included: Continuous Integration environments, Test and process automation, CI/CD tools.
+
+* Dec 2011 - June 2012: Master thesis
+  * Ericsson
+  * Duties included: Quality-Driven re-engineering
+  * Supervisor: Tony Gorschek
+
+* Jun 2011 - Jul 2013: Software Developer
+  * Ericsson
+  * Duties included: JAVA implementation, JUnit testing, Performance testing, Agile software development
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* CI/CD
+* Kubernetes, Docker
+* Non-functional verification and validation
+* Programming languages
+  * JAVA
+  * Python
+  * Bash
+  * Groovy
+  * PHP
+* Gradle, Maven
 
 Publications
 ======
@@ -53,7 +68,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a developer applying Continuous Integration (CI) techniques and natural language processing in Fintech business contexts.
+Welcome! I am a developer applying Continuous Integration (CI) and natural language processing techniques in Fintech business contexts.
 I am also an affiliated researcher and research collaborator with the [Software Engineering Research Lab](https://www.bth.se/forskning/forskningsomraden/programvaruteknik/sert/) at [Blekinge Institute of Technology](https://www.bth.se).
