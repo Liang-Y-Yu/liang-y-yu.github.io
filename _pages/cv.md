@@ -19,7 +19,7 @@ Work experience
 ======
 * Apr 2019 - Present: Developer
   * Ericsson Mobile Financial Service
-  * Duties included: CI/CD, Kubernetes, Micro-services, Automation.
+  * Duties included: GenAI, CI/CD, Kubernetes, Micro-services, Automation.
 
 * Feb 2017 - Apr 2019: System Integration and testing
   * Qvantel
@@ -54,17 +54,5 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
