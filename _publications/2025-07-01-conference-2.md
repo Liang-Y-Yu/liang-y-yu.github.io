@@ -3,7 +3,7 @@ title: "Paradigm shift on Coding Productivity Using GenAI"
 collection: publications
 permalink: /publication/2025-10-01-paper-title-number-8
 excerpt: 'This paper aims to show a paradigm shift on Coding Productivity Using GenAI.'
-date: 2025-10-01
+date: 2025-06-21
 venue: 'Evaluation and Assessment in Software Engineering (EASE)'
 paperurl: 'https://arxiv.org/abs/2504.18404'
 citation: 'L Yu (2025). &quot;Paradigm shift on Coding Productivity Using GenAI.&quot; <i>EASE 2025</i>.'
