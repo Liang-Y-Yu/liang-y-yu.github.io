@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Software Engineering, Blekinge Institute of Technology, 2025 (expected)
+* Ph.D candidate in Software Engineering, Blekinge Institute of Technology, 2025
 * M.S. in MBA, Blekinge Institute of Technology, 2018
 * M.S. in Software Engineering, Blekinge Institute of Technology, 2012
 
