@@ -28,4 +28,4 @@ The thesis contributes a runnable process and a metrics-based framework for eval
 Our findings can support organizations to move from pilots to evidence-based GenAI practices.
 
 # Thesis file
-[Download thesis](/files/Thesis.pdf) (Available November 17 2025)
+[Download thesis](/files/Thesis.pdf)
